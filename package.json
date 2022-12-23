@@ -1,0 +1,8 @@
+{
+  "name": "my-type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jocelinqueau/my-type-challenges.git",
+  "author": "jocelinqueau <queau.j@gmail.com>",
+  "license": "MIT"
+}
