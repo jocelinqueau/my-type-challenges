@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:jocelinqueau/my-type-challenges.git",
   "author": "jocelinqueau <queau.j@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
 }
